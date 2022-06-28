@@ -39,26 +39,6 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/CShape%20-%235586A4.svg?style=for-the-badge&logo=csharp&logoColor=white">
-  </a>
-</p>
 
 ### 👉 Frontend Development
 <p align="center"> 
@@ -78,6 +58,28 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/JavaScript%20-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=white">
   </a> 
+</p>
+
+
+### 👉 Backend languages
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/CSharp%20-%235586A4.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  </a>
 </p>
 
  ### 👉 Software & Tools
@@ -102,6 +104,10 @@
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="VisualStudio" src="https://img.shields.io/badge/-Visual%20Studio-yellowgreen?style=for-the-badge&logo=visualstudio&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="SQLServer" src="https://img.shields.io/badge/-SQL%20Server-blue?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
+   &emsp;
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/-SQL%20Server-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 </p>
 
  ### 👉 Competitive Programming & Problem Solving
