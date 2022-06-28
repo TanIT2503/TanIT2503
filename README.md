@@ -40,7 +40,7 @@
 ## 🛠️ My Skills
 
 
-### 👉 Frontend Development
+### 👉 Frontend Languages
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -61,7 +61,7 @@
 </p>
 
 
-### 👉 Backend languages
+### 👉 Backend Languages
 
 <p align="center"> 
   &emsp; 
@@ -93,6 +93,8 @@
     <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+   &emsp;
+    <a href="#"><img alt="Windows Terminal" src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=windowsterminal&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
@@ -103,7 +105,7 @@
   &emsp;
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="VisualStudio" src="https://img.shields.io/badge/-Visual%20Studio-yellowgreen?style=for-the-badge&logo=visualstudio&logoColor=white" /></a>
+    <a href="#"><img alt="VisualStudio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="SQLServer" src="https://img.shields.io/badge/-SQL%20Server-blue?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
    &emsp;
