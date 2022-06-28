@@ -24,16 +24,16 @@
 
 <div id="badges">
   <a href="https://www.facebook.com/tanisme25/">
-    <img src="https://img.shields.io/badge/Đặng Công Tấn-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Đặng Công Tấn-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/_tanisme">
-    <img src="https://img.shields.io/badge/_tanisme-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/_tanisme-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/congtan2503">
-    <img src="https://img.shields.io/badge/Twitter-yellow?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/congtan2503/">
-    <img src="https://img.shields.io/badge/Linkedin-accent?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -51,12 +51,12 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%235586A4.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
    &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/Bootstrap%20-%231572B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <a href="#" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/Bootstrap%20-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/JavaScript%20-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=white">
+  <a href="" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/JavaScript%20-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
   </a> 
 </p>
 
