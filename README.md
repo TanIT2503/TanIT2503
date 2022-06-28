@@ -109,7 +109,7 @@
   &emsp;
     <a href="#"><img alt="SQLServer" src="https://img.shields.io/badge/-SQL%20Server-blue?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /></a>
    &emsp;
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/-SQL%20Server-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 </p>
 
  ### 👉 Competitive Programming & Problem Solving
